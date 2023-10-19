@@ -1,0 +1,8 @@
+.container{
+  display: flex;
+  flex-direction: row;
+}
+.Dropdown{
+  padding: 5px;
+  margin: 10px;
+}
